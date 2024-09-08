@@ -144,7 +144,7 @@ RABBITMQ_DEFAULT_PASS=123456
 API_URL_360=https://waba-sandbox.360dialog.io
 
 # usado para mosrar opções não disponíveis normalmente.
-ADMIN_DOMAIN=izing.io
+ADMIN_DOMAIN=junioralmeida.info
 
 # Dados para utilização do canal do facebook
 FACEBOOK_APP_ID=3237415623048660
@@ -160,8 +160,8 @@ FACEBOOK_APP_SECRET_KEY=3266214132b8c98ac59f3e957a5efeaaa13500
 #POSTGRES_POOL_IDLE=10000
 
 # Limitar Uso do Izing Usuario e Conexões
-USER_LIMIT=99
-CONNECTIONS_LIMIT=99
+USER_LIMIT=9999
+CONNECTIONS_LIMIT=9999
 [-]EOF
 EOF
 
